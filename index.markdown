@@ -1,6 +1,11 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+list_title: Ultimos anuncios
+title: ''
 ---
+
+# Sitio web de cursos de software
+
+Bienvenidos !
+
+Este sitio web está destinado a mostrarle nuestra cartera de cursos de software Libre
